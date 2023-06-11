@@ -1,0 +1,1015 @@
+[ 21:10:05 ] [ 405 ] [ PUT api/account/register ] [ 127.0.0.1 ] [ 40f5ace1-a179-4979-adb0-ebf25c087a25 ]
+params: {}
+body: {
+    "kek": 5,
+    "gender": "Male",
+    "fullName": "null nullov",
+    "phoneNumber": "+77333777777"
+}
+
+[ 21:10:41 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ ae68a08e-d7c2-4756-8e6e-1cb8a80fa274 ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 21:10:57 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ fc9ace4a-6dd0-4e77-b876-b6392a26f1c4 ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 21:12:27 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 5a1a2b18-c592-44e7-9f67-76a7d53ca452 ]
+params: {}
+body: null
+
+[ 21:12:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 57eb8b45-ba53-4cc7-a88e-5d6a7ecf3ed2 ]
+params: {}
+body: {}
+
+[ 21:12:39 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ b89884e4-2283-497b-9057-8d4de28787de ]
+params: {}
+body: null
+
+[ 21:12:45 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ c6f3d68d-7f8c-4ee5-a126-910e5149372e ]
+params: {}
+body: {}
+
+[ 21:13:16 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 7da49ffd-6912-464b-9b76-daea1f13df9e ]
+params: {}
+body: {}
+
+[ 21:14:36 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ b93beddc-8d4a-4480-ae90-124d9e32d3c7 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 21:15:01 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 3e4c6448-aa6b-47d8-b5aa-b461312a109a ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:16:08 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ b45e8fb0-e182-4e5e-ae52-62ac11b00fa1 ]
+params: {}
+body: {}
+
+[ 21:19:15 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 2cc53ed3-88c7-4c8a-82fb-f8c9a58eadee ]
+params: {}
+body: {
+    "fullName": "777крутой",
+    "email": "аахахахах",
+    "gender": 3333,
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:19:27 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ ed419e71-752b-436d-baa0-be6e31485aca ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "аахахахах",
+    "gender": 3333,
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:19:42 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ e7d5e279-43c5-4831-b2f9-c15332d4812b ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "аахах",
+    "gender": 3333,
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:20:03 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 1e540df0-19a3-4e33-87a8-a84accbcb936 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "аахах",
+    "gender": "девачька",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:20:26 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 7b745c7b-492a-4006-b851-e5e1ce3dbde2 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:21:47 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 39cd1bbe-2f6b-4a14-bb0c-6626ca828147 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777)777-77-77",
+    "password": "***"
+}
+
+[ 21:21:52 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 2abd25e7-bb16-40e9-a0b5-ac395f2e5c0b ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:22:32 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 049d1dff-6e30-491b-b0b6-3e43e6aa3b31 ]
+params: {}
+body: {}
+
+[ 21:22:32 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 47fcaece-bbb8-4c18-86ed-a995863da428 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:22:32 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ a377b1ed-7a97-4184-9d71-fbcc4a147649 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 3138c3d6-3d25-41d2-b493-7fd81b6a8cf3 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ ab3e86ec-dda4-4434-8cc6-6ab5c36c257c ]
+params: {}
+body: {}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 0cbd4756-b33b-4387-bc8b-71b6aa4a35b4 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 30172493-bbfd-4fb1-995e-450543b3f6db ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 93270e2d-51f1-43de-b454-202e11bd6e7e ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 43d2be06-8914-4598-af75-604556c2da31 ]
+params: {}
+body: {}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ c48ef059-489f-416f-8411-e9c0818439eb ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:22:33 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ add8f8f5-beda-40f7-a9db-b94371892976 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 1f72349d-9d39-4a66-9789-52b9aae71891 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 8ec4d190-6e3f-46c1-b456-0522458a4c7e ]
+params: {}
+body: {}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ ced28743-40d8-481a-bda9-5f9d6e3af348 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 53c416ed-98d4-42b9-a870-1be2cd9c6a03 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 3248378d-2130-4565-9a5e-c5b957bbdeff ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ dd9eccca-8fc2-4f16-8005-f5022c659bd1 ]
+params: {}
+body: {}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ d8a525e1-274e-4ebf-a023-07691e42a45e ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 563572e9-8c27-4282-b114-620480b80035 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:22:34 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 77ca4019-ccdf-4cc3-8771-b39296325eb6 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:26:29 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ f81ee292-add2-4f7a-ae54-dc1f9ca122c4 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "7(777) 777-77-77",
+    "password": "***"
+}
+
+[ 21:26:56 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 8a36c987-58ec-4449-b545-40de332a9a6f ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "7777777-77-77",
+    "password": "***"
+}
+
+[ 21:27:01 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ fea2780c-71a6-4dab-9918-115b93373525 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "7777777-77-77 ",
+    "password": "***"
+}
+
+[ 21:27:06 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ f532cb2b-77bd-4474-9ed3-65cfc305f8b2 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": " 7777777-77-77 ",
+    "password": "***"
+}
+
+[ 21:27:11 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 48d6794a-f6fb-4662-945f-8f120d6e04ed ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": " 7777777-77-77 ",
+    "password": "***"
+}
+
+[ 21:27:46 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ b2ad5536-225f-46d9-ae99-652d6f4b1476 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": " 777777 ",
+    "password": "***"
+}
+
+[ 21:29:52 ] [ 200 ] [ POST api/account/register ] [ 127.0.0.1 ] [ beec17c8-792d-4ec4-abb8-a7e1ad6fd470 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:29:56 ] [ 409 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 49678e73-ac36-4af1-bcbb-9a1cd15f38e7 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "gender": "Male",
+    "phoneNumber": "+77777777777",
+    "password": "***"
+}
+
+[ 21:30:40 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ e5f79892-4fa8-434f-ad97-cbbd741f563d ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "birthDate": "2000-01-01"
+}
+
+[ 21:31:03 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 452d798e-ab18-4169-adb6-a6cfcf8193bb ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2000-01-01"
+}
+
+[ 21:31:52 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 21576dc3-c36c-4f69-a915-c91bb51d15d2 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2000-01"
+}
+
+[ 21:32:43 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ f3568e50-f773-4ef5-8adc-f813b26d239a ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2000-01-01T00:10:00Z"
+}
+
+[ 21:32:49 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 8874a311-7c51-4870-a151-cd95186a1691 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2000-01-01T00:10:00Z"
+}
+
+[ 21:33:11 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ e7ec1aac-d410-42bb-8582-920ed1bbee59 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2000-01-01 00:10:00"
+}
+
+[ 21:33:26 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 3a4c37f8-99e0-4e68-9611-39db134b0aed ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "2023-01-01"
+}
+
+[ 21:34:07 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ d647f827-e997-4f1b-9e31-569cd88e6854 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "1899-01-01"
+}
+
+[ 21:34:43 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ e16a95c8-289b-496b-b7af-3e689c4036b3 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "кек"
+}
+
+[ 21:35:19 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ c9ae9152-716f-4349-b12a-8f05a3bb03c1 ]
+params: {}
+body: {
+    "fullName": "Kek kekov",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "10000-01-01"
+}
+
+[ 21:37:09 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 240795e7-b0ed-4024-a027-c27f02bb872f ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***"
+}
+
+[ 21:37:28 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 0e942e8f-ac10-4727-903f-72f09bf6d1a2 ]
+params: {}
+body: {
+    "fullName": "777а",
+    "email": "эмайл",
+    "gender": "гендер",
+    "phoneNumber": 8800553535,
+    "password": "***",
+    "address": "а"
+}
+
+[ 21:41:09 ] [ 200 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 83fafa11-0918-4b0c-af9d-b89022854c66 ]
+params: {}
+body: {
+    "email": "kek@mail.ru",
+    "password": "***"
+}
+
+[ 21:43:06 ] [ 400 ] [ POST api/account/login ] [ 127.0.0.1 ] [ d1026498-6cb5-4612-937f-099dd96cd67c ]
+params: {}
+body: {
+    "email": "kekdsasd@mail.ru",
+    "password": "***"
+}
+
+[ 21:43:22 ] [ 400 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 31acbc99-01a1-4f56-a949-4639fdb3b58e ]
+params: {}
+body: {
+    "email": "kek@mail.ru",
+    "password": "***"
+}
+
+[ 21:43:53 ] [ 400 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 8fa50e22-c22e-4ae3-843b-dd6cff15019c ]
+params: {}
+body: {}
+
+[ 21:44:49 ] [ 400 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 572bfc36-c259-489a-a94d-18f043ea5e98 ]
+params: {}
+body: {
+    "email": 555,
+    "password": "***"
+}
+
+[ 21:46:23 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 822f1b3d-9ede-4a01-b837-9c0aa5df108a ]
+params: {}
+body: {}
+
+[ 21:47:09 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ be0f36c7-be2a-4608-a89c-3a12646ce8b2 ]
+params: {}
+body: {}
+
+[ 21:47:20 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 4ecc7e1b-ce6a-4e4a-a412-b78d0e457b6e ]
+params: {}
+body: {}
+
+[ 21:47:34 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 6c5fdcd0-b55f-4eb2-8df5-20bb951bc93e ]
+params: {}
+body: {}
+
+[ 21:47:48 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 944af29f-a2c7-4287-b5e5-4c3a44228189 ]
+params: {}
+body: {}
+
+[ 21:48:40 ] [ 200 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 605a356d-f6fd-4a1b-9461-21ed7cc015ae ]
+params: {}
+body: {
+    "email": "kek@mail.ru",
+    "password": "***"
+}
+
+[ 21:50:21 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ cd943d35-c9ed-4994-8ea7-ef072e1eddb2 ]
+params: {}
+body: null
+
+[ 21:50:44 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ f425b656-aba4-4236-b821-18a97b4ee0a9 ]
+params: {}
+body: null
+
+[ 21:51:09 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 698dfa9f-0905-42a9-bf85-f6a23a69e16e ]
+params: {}
+body: null
+
+[ 21:52:08 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 32f02c9d-5bd2-46af-9630-918a17c71d15 ]
+params: {}
+body: null
+
+[ 21:53:12 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ ed99e907-b073-459a-88dc-9886ed9c0790 ]
+params: {}
+body: null
+
+[ 21:53:30 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ c1ac6919-cfe7-424e-b7b2-d5bfcdfd4148 ]
+params: {}
+body: null
+
+[ 21:54:17 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 92ddc901-4dde-48a6-a7d2-af5125c2eabf ]
+params: {}
+body: null
+
+[ 21:54:20 ] [ 400 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 43550eed-81af-44e7-92d8-3b43c2e24c75 ]
+params: {}
+body: null
+
+[ 21:55:12 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 58f7aa05-5ae1-469b-8933-92295888cd94 ]
+params: {}
+body: null
+
+[ 21:55:42 ] [ 200 ] [ POST api/account/login ] [ 127.0.0.1 ] [ 568d0e37-726b-44a3-bba3-bf38beaac8de ]
+params: {}
+body: {
+    "email": "kek@mail.ru",
+    "password": "***"
+}
+
+[ 21:56:39 ] [ 200 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 527865ac-ec82-4d48-bd78-0a6c880794be ]
+params: {}
+body: null
+
+[ 21:56:42 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 115d4e17-dff1-46c1-befa-398c9fd1e9f0 ]
+params: {}
+body: null
+
+[ 21:56:45 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 1214f2b4-f90f-4809-a02e-76facd639959 ]
+params: {}
+body: null
+
+[ 21:56:47 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ b65afbc6-825f-4652-8829-751ecf16f3e7 ]
+params: {}
+body: null
+
+[ 21:59:03 ] [ 401 ] [ GET api/account/profile ] [ 127.0.0.1 ] [ 20780d21-60c9-4b16-b969-83b9ee788a44 ]
+params: {}
+body: null
+
+[ 22:00:33 ] [ 200 ] [ GET api/account/profile ] [ 127.0.0.1 ] [ 9b0ccfbf-9fb2-4a5b-b0fc-b30f1fe636ec ]
+params: {}
+body: null
+
+[ 22:01:37 ] [ 200 ] [ GET api/account/profile ] [ 127.0.0.1 ] [ a2ec468e-466f-44cc-91df-554f486b1dbc ]
+params: {}
+body: null
+
+[ 22:03:02 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 8f2346b6-639c-430b-8039-919c98f35b38 ]
+params: {}
+body: {
+    "fullName": "Kek kekov2",
+    "email": "kek@mail.ru",
+    "password": "***",
+    "birthDate": "1970-01-01"
+}
+
+[ 22:03:35 ] [ 200 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 03cbdf0b-b6c3-4f9f-beaf-13b3c0c85703 ]
+params: {}
+body: {
+    "fullName": "Kek kekoV",
+    "email": "kek2@mail.ru",
+    "password": "***",
+    "gender": "Male",
+    "birthDate": "1970-01-01"
+}
+
+[ 22:04:09 ] [ 200 ] [ GET api/account/profile ] [ 127.0.0.1 ] [ 85c24ece-9bd4-43d3-8d3b-20325efd3c15 ]
+params: {}
+body: null
+
+[ 22:19:14 ] [ 405 ] [ POST api/account/profile ] [ 127.0.0.1 ] [ fbf93c27-8945-42ed-9aab-3a6adec29901 ]
+params: {}
+body: {}
+
+[ 22:19:20 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ bba81518-58cd-43c2-8e0f-18278c6dda09 ]
+params: {}
+body: {}
+
+[ 22:20:36 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ a0485a5c-0bfa-4252-b1c5-043a79a530af ]
+params: {}
+body: {
+    "fullName": 777,
+    "gender": "Female",
+    "phoneNumber": 77777777,
+    "birthDate": "1700-01-01"
+}
+
+[ 22:21:33 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ f2f4b6b1-c93b-4a86-a1db-2ac1dcd6f997 ]
+params: {}
+body: {
+    "fullName": 777,
+    "gender": "Женский",
+    "phoneNumber": 77777777,
+    "birthDate": "1700-01-01"
+}
+
+[ 22:24:53 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ d7d6669d-5df1-4b38-bc48-f52122a89ea3 ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Женский",
+    "phoneNumber": 77777777,
+    "birthDate": "2000-01-01"
+}
+
+[ 22:25:18 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 000bea72-70cc-4e6d-b48e-abfbeacfe98c ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+12343212314",
+    "birthDate": "2000-01-01"
+}
+
+[ 22:25:27 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 7a868ff0-890e-4b39-98a7-e1f12749192b ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+72343212314",
+    "birthDate": "2000-01-01"
+}
+
+[ 22:26:37 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 333ff8ae-7473-499b-af1b-71d84b7a8f2d ]
+params: {}
+body: {
+    "fullName": "кек",
+    "gender": "Бекендер",
+    "phoneNumber": "+1()()2343212314",
+    "birthDate": "2900-01-01"
+}
+
+[ 22:26:50 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ f28d4683-e5ba-4e3a-b7c6-1eb1d57568d4 ]
+params: {}
+body: {
+    "fullName": "кек",
+    "gender": "Бекендер",
+    "phoneNumber": "+7()()2343212314",
+    "birthDate": "2900-01-01"
+}
+
+[ 22:27:19 ] [ 400 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 56ac1f46-93f0-489a-a1de-f21471db08c9 ]
+params: {}
+body: {
+    "fullName": "кек",
+    "gender": "Бекендер",
+    "phoneNumber": "+7()()2343212314",
+    "birthDate": "2900-01-01",
+    "address": {
+        "ulitza": "stroiteley",
+        "dom": 25,
+        "kv": 12
+    }
+}
+
+[ 22:27:40 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ dbdcba3b-cc42-4983-a3ae-9bc72ee0fee6 ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+72343212314",
+    "birthDate": "2000-01-01"
+}
+
+[ 22:30:58 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ c65d7faa-0bda-456b-a182-a688fd4cd58b ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+72343212314",
+    "birthDate": "2001-01-01"
+}
+
+[ 22:31:12 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ a0d34acb-be4a-468e-9731-18afa90ac6cc ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+7(235)3212314",
+    "birthDate": "2001-01-01"
+}
+
+[ 22:31:25 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 4bd8ceb4-dbb1-4e15-9411-8f2774174df5 ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+7(235)3212314",
+    "birthDate": "2002-01-01"
+}
+
+[ 22:31:52 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ 1747c6d3-777c-46fd-90b9-d94374041f79 ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+7(235)3212314",
+    "birthDate": "2003-01-01",
+    "address": "Новый адрес"
+}
+
+[ 22:32:06 ] [ 200 ] [ PUT api/account/profile ] [ 127.0.0.1 ] [ cfb0cf36-4835-4f49-860b-1b63aff355ce ]
+params: {}
+body: {
+    "fullName": "Новое имя",
+    "gender": "Male",
+    "phoneNumber": "+7(235)3212314",
+    "birthDate": "2003-01-01",
+    "address": null
+}
+
+[ 22:33:25 ] [ 200 ] [ POST api/account/login ] [ 127.0.0.1 ] [ b6e07110-5950-4a48-95fe-97cd2ec04009 ]
+params: {}
+body: {
+    "email": "kek@mail.ru",
+    "password": "***"
+}
+
+[ 22:33:48 ] [ 200 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 897af3cc-3180-4381-8b7b-5045fd72b872 ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 22:33:50 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 019b74ac-2161-4193-a9ec-afdfce7b58e2 ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 22:33:53 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ 3abd46fd-29a4-40a1-a7dc-b1aef4038def ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 22:33:55 ] [ 401 ] [ POST api/account/logout ] [ 127.0.0.1 ] [ a297baee-af41-458a-b18a-60920eecf63f ]
+params: {}
+body: {
+    "fullName": "null nullov",
+    "email": "кек",
+    "gender": "Male",
+    "phoneNumber": "+77333777777",
+    "password": "***"
+}
+
+[ 22:47:22 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ d48b883f-0b50-42ec-bf86-5d5ab48c54bc ]
+params: {}
+body: null
+
+[ 22:48:42 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ 16cecef1-5be2-49ef-8729-67e82df7f4c8 ]
+params: {}
+body: null
+
+[ 22:48:49 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ 13a6a89c-1748-4816-baa8-b2aa7b1c950a ]
+params: {}
+body: null
+
+[ 22:49:55 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ 8edb20b0-211b-4310-815d-85e5e30e5dad ]
+params: {}
+body: null
+
+[ 22:50:26 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ c1be4e4e-4c12-4acc-853e-bfae9b7e008b ]
+params: {}
+body: null
+
+[ 22:50:35 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ 2d54ea9f-7ab9-4c0b-a96a-f54152ea8971 ]
+params: {}
+body: null
+
+[ 22:51:31 ] [ 404 ] [ PUT api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0eee ] [ 127.0.0.1 ] [ 53c7759a-8e24-41f0-9ba4-cfa691081092 ]
+params: {}
+body: null
+
+[ 22:52:06 ] [ 405 ] [ PUT api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0edee ] [ 127.0.0.1 ] [ 3c8eb008-6535-4919-9fad-50d7d2e4a0bb ]
+params: {}
+body: null
+
+[ 22:52:12 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0edee ] [ 127.0.0.1 ] [ 544ffbb8-add3-4216-b098-2e22d7eaad10 ]
+params: {}
+body: null
+
+[ 22:52:51 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 356c8e87-54f3-47f5-b9ae-0ed0a23eff80 ]
+params: {}
+body: null
+
+[ 22:53:03 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 9a56f88b-d0d4-4089-b021-53ec79aaa8e9 ]
+params: {}
+body: null
+
+[ 22:53:42 ] [ 404 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0edee ] [ 127.0.0.1 ] [ d3f6af06-ed87-45ad-a3dd-7cdcdd30e42a ]
+params: {}
+body: null
+
+[ 22:53:47 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 4ca539c0-b6b5-44cb-89e8-164900b449e1 ]
+params: {}
+body: null
+
+[ 22:53:54 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 2bda3bd7-ae42-4662-8e77-13c67e8cb8db ]
+params: {}
+body: null
+
+[ 22:54:00 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ a2eba59c-6402-44f0-9aad-d8a8d7103c99 ]
+params: {}
+body: null
+
+[ 22:54:05 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 9623e054-ef0c-469a-82b1-b62e83dae825 ]
+params: {}
+body: null
+
+[ 22:54:36 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 4c03b46f-d080-4961-8981-f05ed286f42e ]
+params: {}
+body: null
+
+[ 22:55:13 ] [ 200 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 04ca948f-b18b-4b6c-a395-1be37ccaaaf3 ]
+params: {}
+body: null
+
+[ 22:55:18 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 715ee470-39e4-49f4-ac66-72fb83a9e0fd ]
+params: {}
+body: null
+
+[ 22:55:33 ] [ 404 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 3de8d459-7ce6-43d8-b6c4-628ebbaf133a ]
+params: {}
+body: null
+
+[ 22:57:02 ] [ 404 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ f37f0124-5bd5-4e7d-9abf-db07569a9c0f ]
+params: {
+    "increase": [
+        "false"
+    ]
+}
+body: null
+
+[ 22:57:11 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 0dca9b1b-1c3d-4e57-934d-2552f3b2075e ]
+params: {}
+body: null
+
+[ 22:57:14 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 9d6ab029-0137-49e8-a1ee-33bdd93edfac ]
+params: {}
+body: null
+
+[ 22:57:18 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 90b055bb-77ab-471b-93a5-4b88d0a9f231 ]
+params: {}
+body: null
+
+[ 22:57:25 ] [ 200 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 362b1974-611d-469f-9abc-5bb8cb7703b3 ]
+params: {
+    "increase": [
+        "false"
+    ]
+}
+body: null
+
+[ 22:57:30 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 555cc28f-7169-4a5b-8fb4-0e872a1a00e0 ]
+params: {}
+body: null
+
+[ 22:57:49 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 7ff6a976-b55d-4cd3-a420-2abeaf3c820e ]
+params: {}
+body: null
+
+[ 22:57:53 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 55be3686-ddb6-4e32-944e-6f94edf24f48 ]
+params: {}
+body: null
+
+[ 22:57:57 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 09d861c0-3ac1-4a3f-8be7-805b9afeabfc ]
+params: {}
+body: null
+
+[ 22:58:04 ] [ 200 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ f116ef28-829d-43db-9f96-2b6ccf7a82e1 ]
+params: {
+    "increase": [
+        "true"
+    ]
+}
+body: null
+
+[ 22:58:09 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 01fcff8c-09c2-447b-90b3-660bb612a211 ]
+params: {}
+body: null
+
+[ 22:58:13 ] [ 200 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 469c19e4-61a2-48a0-9ed1-b0dd29f85edc ]
+params: {
+    "increase": [
+        "true"
+    ]
+}
+body: null
+
+[ 22:58:18 ] [ 200 ] [ GET api/basket ] [ 127.0.0.1 ] [ 7059a8dd-2e4b-4448-951e-1b42ede525a9 ]
+params: {}
+body: null
+
+[ 22:58:23 ] [ 404 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 534d8010-84bd-4f8d-86e6-d1ab5cfa94af ]
+params: {
+    "increase": [
+        "true"
+    ]
+}
+body: null
+
+[ 22:59:54 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 0e7e2767-cfb1-4df0-b6dd-c490ec0343b0 ]
+params: {}
+body: null
+
+[ 23:00:07 ] [ 200 ] [ DELETE api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ 03e3181f-1cba-43ab-8ee4-f6914fc040ed ]
+params: {
+    "increase": [
+        "true"
+    ]
+}
+body: null
+
+[ 23:00:21 ] [ 200 ] [ POST api/basket/dish/4ee393fc-af18-4636-be23-08dac7a0ede1 ] [ 127.0.0.1 ] [ b9dfd28f-8107-43de-89eb-247402ebea3a ]
+params: {}
+body: null
+

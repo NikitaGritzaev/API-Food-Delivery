@@ -1,0 +1,30 @@
+[ 17:35:39 ] [ 409 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 41a26c82-9481-4723-9f92-813f435d0bf2 ]
+params: {}
+body: {
+    "fullName": "тесaтовый",
+    "password": "***",
+    "email": "kekaaa1asakaaa1as2aek@mail.kek",
+    "gender": "Male",
+    "birthDate": "1909-12-03"
+}
+
+[ 17:47:59 ] [ 409 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 36db061c-62a4-4aef-9b7e-4c2a111a42b9 ]
+params: {}
+body: {
+    "fullName": "тесaтовый",
+    "password": "***",
+    "email": "kekaaa1asakaaa1as2aek@mail.kek",
+    "gender": "Male",
+    "birthDate": "1909-12-03"
+}
+
+[ 17:48:12 ] [ 400 ] [ POST api/account/register ] [ 127.0.0.1 ] [ 84bf13dc-095d-47c8-a52b-88bf62c47ddc ]
+params: {}
+body: {
+    "fullName": "тесaтовый",
+    "password": "***",
+    "email": "kekaaa1asakaaa1as2aek@mail.kek",
+    "gender": "Male",
+    "birthDate": "1909-12-03"
+}
+
